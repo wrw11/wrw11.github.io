@@ -2,7 +2,8 @@ body {
   font-family: 'Courier New', Courier, mono;
   font-size: 20px;}
 
-body {background-color: linen;}
+body {background-image: url("website.jpg");
+background-color: #cccccc;}
 h1 { 
   font-variant: small-caps;
   text-align: center;
