@@ -1,6 +1,6 @@
 body {
-  font-family: 'Garamond', 'times', serif;
-  font-size: 125%;
+  font-family: Courier New, Courier, mono;
+  font-size: 20px;
 }
 h1 { 
   font-variant: small-caps;
