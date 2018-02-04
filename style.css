@@ -1,6 +1,7 @@
 a {color: black;}
 
-body {background-color: grey;}
+body {background-image: url("http://prod.static.steelers.clubs.nfl.com/assets/images/Wallpaper/2010_Steelers_Wallpaper_Brushed.jpg");
+   background-color: #cccccc;}
 
 body {
   font-family: Courier New, Courier, mono;
