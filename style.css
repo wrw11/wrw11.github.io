@@ -1,19 +1,7 @@
 body {
-  font-family: 'Courier New', Courier, mono;
-  font-size: 20px;}
-
-.wrapper { 
-  height: 100%;
-  width: 100%;
-  left:0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  position: absolute;
-background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
-background-size: 1800% 1800%;
-
-
+  font-family: 'Garamond', 'times', serif;
+  font-size: 125%;
+}
 h1 { 
   font-variant: small-caps;
   text-align: center;
@@ -33,13 +21,3 @@ width: 70%;
   margin-left: auto;
   margin-right: auto;
   display: block;
-
-  
-  html { 
-  background: url(images/bg.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-  
